@@ -251,21 +251,21 @@ function comparePosition(p1, p2) {
 
 //muda uma coordenada para a cor preta
 function setBk(c, r) {
-  var id = "#item-" + c + "-" + r;
+  let id = "#item-" + c + "-" + r;
 
   document.querySelector(id).style.backgroundColor = "black";
 }
 
 //muda uma coordenada para a cor cinza
 function unsetBk(c, r) {
-  var id = "#item-" + c + "-" + r;
+  let id = "#item-" + c + "-" + r;
 
   document.querySelector(id).style.backgroundColor = "lightgrey";
 }
 
 //muda uma coordenada para a cor vermelha
 function setRed(c, r) {
-  var id = "#item-" + c + "-" + r;
+  let id = "#item-" + c + "-" + r;
   document.querySelector(id).style.backgroundColor = "red";
 }
 
