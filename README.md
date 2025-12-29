@@ -1,5 +1,7 @@
 # Snake Game
- <p>Este é o jogo clássico de arcade reproduzido em vanilla JS. </p>
- 
- 
- <p>Não é preciso compilar ou configurar para jogar é só baixar e rodar no seu navegador. 🙂</p>
+
+Esse projeto foi criado anos atrás por mim como estudo de JavaScript - anos antes de qualquer IA!
+
+## Run
+
+Não é preciso compilar ou configurar para jogar é só baixar e rodar o 'index.html' no seu navegador. 🙂
